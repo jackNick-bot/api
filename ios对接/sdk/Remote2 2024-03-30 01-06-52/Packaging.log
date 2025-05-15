@@ -1,0 +1,214 @@
+2024-03-30 08:06:44 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7faedcba8bf0; archive(resolved)="<IDEArchive: 0x600040f71ce0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7faedcba8bf0; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7faedce78cb0; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7faedcf34580; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7faedbc08380; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7faf4ad90120; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7faedcf44090; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7faedcf3ff10; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7faedcf4bd50; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7faedce7f6f0; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000ffd0e00; teamID='J526TTC4GP', teamName='Nurila Bibossynova', teamType='Individual', username='bifdubofwe@hotmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7faedce75a10; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="(null)">
+	<IDEDistributionContext: 0x7faedce0ceb0; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="(null)">
+	<IDEDistributionContext: 0x7faf188aa590; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="(null)">
+	<IDEDistributionContext: 0x7faf49e8cd10; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x600022841290>", team="(null)">
+	<IDEDistributionContext: 0x7faf4afdfca0; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x7faedce5f840; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x7faedce76490; archive = "<IDEArchive: 0x600040f71ce0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7faedcba8bf0>
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionCopyItemStep
+2024-03-30 08:06:44 +0000  Running /usr/bin/ditto '-V' '/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app' '/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app'
+2024-03-30 08:06:44 +0000  >>> Copying /Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app 
+2024-03-30 08:06:44 +0000  copying file ./Remote2 ... 
+2024-03-30 08:06:44 +0000  87984 bytes for ./Remote2
+copying file ./文档说明.md ... 
+2024-03-30 08:06:44 +0000  1001 bytes for ./文档说明.md
+2024-03-30 08:06:44 +0000  copying file ./Remote2.momd/Remote2.omo ... 
+2024-03-30 08:06:44 +0000  704 bytes for ./Remote2.momd/Remote2.omo
+copying file ./Remote2.momd/VersionInfo.plist ... 
+2024-03-30 08:06:44 +0000  255 bytes for ./Remote2.momd/VersionInfo.plist
+copying file ./Remote2.momd/Remote2.mom ... 
+2024-03-30 08:06:44 +0000  566 bytes for ./Remote2.momd/Remote2.mom
+2024-03-30 08:06:44 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-03-30 08:06:44 +0000  1225 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2024-03-30 08:06:44 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-03-30 08:06:44 +0000  924 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-03-30 08:06:44 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2024-03-30 08:06:44 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2024-03-30 08:06:44 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-03-30 08:06:44 +0000  6397 bytes for ./_CodeSignature/CodeResources
+2024-03-30 08:06:44 +0000  copying file ./合并脚本.sh ... 
+2024-03-30 08:06:44 +0000  586 bytes for ./合并脚本.sh
+2024-03-30 08:06:44 +0000  copying file ./截屏2024-03-29 18.35.14.png ... 
+2024-03-30 08:06:44 +0000  820447 bytes for ./截屏2024-03-29 18.35.14.png
+2024-03-30 08:06:44 +0000  copying file ./Frameworks/ZHTestSDKDemo.framework/ZHTestSDKDemo ... 
+2024-03-30 08:06:44 +0000  384784 bytes for ./Frameworks/ZHTestSDKDemo.framework/ZHTestSDKDemo
+2024-03-30 08:06:44 +0000  copying file ./Frameworks/ZHTestSDKDemo.framework/_CodeSignature/CodeResources ... 
+2024-03-30 08:06:44 +0000  1798 bytes for ./Frameworks/ZHTestSDKDemo.framework/_CodeSignature/CodeResources
+2024-03-30 08:06:44 +0000  copying file ./Frameworks/ZHTestSDKDemo.framework/Info.plist ... 
+2024-03-30 08:06:44 +0000  879 bytes for ./Frameworks/ZHTestSDKDemo.framework/Info.plist
+2024-03-30 08:06:44 +0000  copying file ./Info.plist ... 
+2024-03-30 08:06:44 +0000  1522 bytes for ./Info.plist
+2024-03-30 08:06:44 +0000  copying file ./Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2024-03-30 08:06:44 +0000  983 bytes for ./Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2024-03-30 08:06:44 +0000  copying file ./Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2024-03-30 08:06:44 +0000  4929 bytes for ./Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2024-03-30 08:06:44 +0000  copying file ./Main.storyboardc/Info.plist ... 
+2024-03-30 08:06:44 +0000  258 bytes for ./Main.storyboardc/Info.plist
+2024-03-30 08:06:44 +0000  copying file ./PkgInfo ... 
+2024-03-30 08:06:44 +0000  8 bytes for ./PkgInfo
+2024-03-30 08:06:44 +0000  copying file ./simulator_screenshot_B61BF9EA-E855-4E5F-8C8B-221C0BA5875C.png ... 
+2024-03-30 08:06:44 +0000  116380 bytes for ./simulator_screenshot_B61BF9EA-E855-4E5F-8C8B-221C0BA5875C.png
+2024-03-30 08:06:44 +0000  copying file ./embedded.mobileprovision ... 
+2024-03-30 08:06:44 +0000  12292 bytes for ./embedded.mobileprovision
+2024-03-30 08:06:44 +0000  /usr/bin/ditto exited with 0
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-03-30 08:06:44 +0000  Skipping profile for item: <IDEDistributionItem: 0x600040edad60; bundleID='first.black.ZHTestSDKDemo', path='<DVTFilePath:0x6000147c7d80:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600064cffb60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600019fe4840; name='Apple Development: Nurila Bibossynova (L55VAC2B3J)', hash='A079004751A33182AA6A71F6C3B5B086B00C03E2', serialNumber='21E5537F50E47EC4C5644519DE8D820D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-03-26 11:27:12 +0000''>', entitlements='(null)', teamID='J526TTC4GP', identifier='first.black.ZHTestSDKDemo', executablePath='<DVTFilePath:0x600014735500:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework/ZHTestSDKDemo'>', hardenedRuntime='0'>'>
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionSymbolsStep
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionAppThinningStep
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionArchThinningStep
+2024-03-30 08:06:44 +0000  Item /Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-03-30 08:06:44 +0000  Archs to thin for item /Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework are ["arm64e"]
+2024-03-30 08:06:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework/ZHTestSDKDemo' '-verify_arch' 'arm64e'
+2024-03-30 08:06:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-03-30 08:06:44 +0000  Skipping architecture thinning for item "ZHTestSDKDemo" because arch "arm64e" wasn't found
+2024-03-30 08:06:44 +0000  Item /Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-03-30 08:06:44 +0000  Archs to thin for item /Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app are ["arm64e"]
+2024-03-30 08:06:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app/Remote2' '-verify_arch' 'arm64e'
+2024-03-30 08:06:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-03-30 08:06:44 +0000  Skipping architecture thinning for item "Remote2" because arch "arm64e" wasn't found
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionODRStep
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-03-30 08:06:44 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-03-30 08:06:44 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionCodesignStep
+2024-03-30 08:06:44 +0000  Entitlements for <IDEDistributionItem: 0x600040edad60; bundleID='first.black.ZHTestSDKDemo', path='<DVTFilePath:0x6000147c7d80:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600064cffb60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600019fe4f00; name='Apple Development: Nurila Bibossynova (L55VAC2B3J)', hash='A079004751A33182AA6A71F6C3B5B086B00C03E2', serialNumber='21E5537F50E47EC4C5644519DE8D820D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-03-26 11:27:12 +0000''>', entitlements='(null)', teamID='J526TTC4GP', identifier='first.black.ZHTestSDKDemo', executablePath='<DVTFilePath:0x600014735500:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework/ZHTestSDKDemo'>', hardenedRuntime='0'>'>: {
+}
+2024-03-30 08:06:44 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-03-30 08:06:44 +0000  Entitlements for <IDEDistributionItem: 0x600040edad60; bundleID='first.black.ZHTestSDKDemo', path='<DVTFilePath:0x6000147c7d80:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600064cffb60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600011fec780; name='Apple Development: Nurila Bibossynova (L55VAC2B3J)', hash='A079004751A33182AA6A71F6C3B5B086B00C03E2', serialNumber='21E5537F50E47EC4C5644519DE8D820D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-03-26 11:27:12 +0000''>', entitlements='(null)', teamID='J526TTC4GP', identifier='first.black.ZHTestSDKDemo', executablePath='<DVTFilePath:0x600014735500:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework/ZHTestSDKDemo'>', hardenedRuntime='0'>'> are: {
+}
+2024-03-30 08:06:44 +0000  Writing entitlements for <IDEDistributionItem: 0x600040edad60; bundleID='first.black.ZHTestSDKDemo', path='<DVTFilePath:0x6000147c7d80:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600064cffb60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600019fe4840; name='Apple Development: Nurila Bibossynova (L55VAC2B3J)', hash='A079004751A33182AA6A71F6C3B5B086B00C03E2', serialNumber='21E5537F50E47EC4C5644519DE8D820D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-03-26 11:27:12 +0000''>', entitlements='(null)', teamID='J526TTC4GP', identifier='first.black.ZHTestSDKDemo', executablePath='<DVTFilePath:0x600014735500:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Frameworks/ZHTestSDKDemo.framework/ZHTestSDKDemo'>', hardenedRuntime='0'>'> to: /var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/entitlements~~~qguBA3
+2024-03-30 08:06:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A079004751A33182AA6A71F6C3B5B086B00C03E2' '--entitlements' '/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/entitlements~~~qguBA3' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework'
+2024-03-30 08:06:44 +0000  /var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework: replacing existing signature
+2024-03-30 08:06:44 +0000  /var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework: signed bundle with Mach-O universal (x86_64 arm64) [first.black.ZHTestSDKDemo]
+2024-03-30 08:06:44 +0000  /usr/bin/codesign exited with 0
+2024-03-30 08:06:44 +0000  Entitlements for <IDEDistributionItem: 0x600040f1ed60; bundleID='first.black.Remote2', path='<DVTFilePath:0x600018485a80:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600064c2b750; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600019fe4840; name='Apple Development: Nurila Bibossynova (L55VAC2B3J)', hash='A079004751A33182AA6A71F6C3B5B086B00C03E2', serialNumber='21E5537F50E47EC4C5644519DE8D820D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-03-26 11:27:12 +0000''>', entitlements='{
+    "application-identifier" = "J526TTC4GP.first.black.Remote2";
+    "com.apple.developer.team-identifier" = J526TTC4GP;
+    "get-task-allow" = 1;
+}', teamID='J526TTC4GP', identifier='first.black.Remote2', executablePath='<DVTFilePath:0x60002426f3a0:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Remote2'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "J526TTC4GP.first.black.Remote2";
+    "com.apple.developer.team-identifier" = J526TTC4GP;
+    "get-task-allow" = 1;
+}
+2024-03-30 08:06:44 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-03-30 08:06:44 +0000  Entitlements for <IDEDistributionItem: 0x600040f1ed60; bundleID='first.black.Remote2', path='<DVTFilePath:0x600018485a80:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600064c2b750; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600019fd4cc0; name='Apple Development: Nurila Bibossynova (L55VAC2B3J)', hash='A079004751A33182AA6A71F6C3B5B086B00C03E2', serialNumber='21E5537F50E47EC4C5644519DE8D820D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-03-26 11:27:12 +0000''>', entitlements='{
+    "application-identifier" = "J526TTC4GP.first.black.Remote2";
+    "com.apple.developer.team-identifier" = J526TTC4GP;
+    "get-task-allow" = 1;
+}', teamID='J526TTC4GP', identifier='first.black.Remote2', executablePath='<DVTFilePath:0x60002426f3a0:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Remote2'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "J526TTC4GP.first.black.Remote2";
+    "com.apple.developer.team-identifier" = J526TTC4GP;
+    "get-task-allow" = 1;
+}
+2024-03-30 08:06:44 +0000  Writing entitlements for <IDEDistributionItem: 0x600040f1ed60; bundleID='first.black.Remote2', path='<DVTFilePath:0x600018485a80:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600064c2b750; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600019fd7c00; name='Apple Development: Nurila Bibossynova (L55VAC2B3J)', hash='A079004751A33182AA6A71F6C3B5B086B00C03E2', serialNumber='21E5537F50E47EC4C5644519DE8D820D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-03-26 11:27:12 +0000''>', entitlements='{
+    "application-identifier" = "J526TTC4GP.first.black.Remote2";
+    "com.apple.developer.team-identifier" = J526TTC4GP;
+    "get-task-allow" = 1;
+}', teamID='J526TTC4GP', identifier='first.black.Remote2', executablePath='<DVTFilePath:0x60002426f3a0:'/Users/rrrr/Library/Developer/Xcode/Archives/2024-03-30/Remote2 2024-3-30, 01.05.xcarchive/Products/Applications/Remote2.app/Remote2'>', hardenedRuntime='0'>'> to: /var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/entitlements~~~D5j4c9
+2024-03-30 08:06:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A079004751A33182AA6A71F6C3B5B086B00C03E2' '--entitlements' '/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/entitlements~~~D5j4c9' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app'
+2024-03-30 08:06:44 +0000  /var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app: replacing existing signature
+2024-03-30 08:06:44 +0000  /var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app: signed app bundle with Mach-O thin (arm64) [first.black.Remote2]
+2024-03-30 08:06:44 +0000  /usr/bin/codesign exited with 0
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-03-30 08:06:44 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root' '/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Packages/Remote2.ipa'
+2024-03-30 08:06:44 +0000  >>> Copying /var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root 
+2024-03-30 08:06:44 +0000  copying file ./Payload/Remote2.app/Remote2 ... 
+2024-03-30 08:06:44 +0000  87984 bytes for ./Payload/Remote2.app/Remote2
+copying file ./Payload/Remote2.app/文档说明.md ... 
+2024-03-30 08:06:44 +0000  1001 bytes for ./Payload/Remote2.app/文档说明.md
+2024-03-30 08:06:44 +0000  copying file ./Payload/Remote2.app/Remote2.momd/Remote2.omo ... 
+704 bytes for ./Payload/Remote2.app/Remote2.momd/Remote2.omo
+copying file ./Payload/Remote2.app/Remote2.momd/VersionInfo.plist ... 
+2024-03-30 08:06:44 +0000  255 bytes for ./Payload/Remote2.app/Remote2.momd/VersionInfo.plist
+copying file ./Payload/Remote2.app/Remote2.momd/Remote2.mom ... 
+566 bytes for ./Payload/Remote2.app/Remote2.momd/Remote2.mom
+copying file ./Payload/Remote2.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-03-30 08:06:44 +0000  1225 bytes for ./Payload/Remote2.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/Remote2.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-03-30 08:06:44 +0000  924 bytes for ./Payload/Remote2.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/Remote2.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/Remote2.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/Remote2.app/_CodeSignature/CodeResources ... 
+2024-03-30 08:06:44 +0000  6397 bytes for ./Payload/Remote2.app/_CodeSignature/CodeResources
+2024-03-30 08:06:44 +0000  copying file ./Payload/Remote2.app/合并脚本.sh ... 
+586 bytes for ./Payload/Remote2.app/合并脚本.sh
+copying file ./Payload/Remote2.app/截屏2024-03-29 18.35.14.png ... 
+2024-03-30 08:06:44 +0000  820447 bytes for ./Payload/Remote2.app/截屏2024-03-29 18.35.14.png
+2024-03-30 08:06:44 +0000  copying file ./Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework/ZHTestSDKDemo ... 
+2024-03-30 08:06:44 +0000  385056 bytes for ./Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework/ZHTestSDKDemo
+2024-03-30 08:06:44 +0000  copying file ./Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework/_CodeSignature/CodeResources
+copying file ./Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework/Info.plist ... 
+2024-03-30 08:06:44 +0000  879 bytes for ./Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework/Info.plist
+2024-03-30 08:06:44 +0000  copying file ./Payload/Remote2.app/Info.plist ... 
+1522 bytes for ./Payload/Remote2.app/Info.plist
+copying file ./Payload/Remote2.app/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2024-03-30 08:06:44 +0000  983 bytes for ./Payload/Remote2.app/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/Remote2.app/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2024-03-30 08:06:44 +0000  4929 bytes for ./Payload/Remote2.app/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/Remote2.app/Main.storyboardc/Info.plist ... 
+258 bytes for ./Payload/Remote2.app/Main.storyboardc/Info.plist
+2024-03-30 08:06:44 +0000  copying file ./Payload/Remote2.app/PkgInfo ... 
+8 bytes for ./Payload/Remote2.app/PkgInfo
+copying file ./Payload/Remote2.app/simulator_screenshot_B61BF9EA-E855-4E5F-8C8B-221C0BA5875C.png ... 
+2024-03-30 08:06:44 +0000  116380 bytes for ./Payload/Remote2.app/simulator_screenshot_B61BF9EA-E855-4E5F-8C8B-221C0BA5875C.png
+copying file ./Payload/Remote2.app/embedded.mobileprovision ... 
+2024-03-30 08:06:44 +0000  12292 bytes for ./Payload/Remote2.app/embedded.mobileprovision
+2024-03-30 08:06:44 +0000  /usr/bin/ditto exited with 0
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-03-30 08:06:44 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-03-30 08:06:44 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-03-30 08:06:44 +0000  IDEDistributionItem init <DVTFilePath:0x60001872dc00:'/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app/Frameworks/ZHTestSDKDemo.framework'>
+2024-03-30 08:06:44 +0000  IDEDistributionItem init <DVTFilePath:0x6000187dc680:'/var/folders/rj/ltm4v15d5g70rfvltyx7_zc80000gn/T/XcodeDistPipeline.~~~lcggX0/Root/Payload/Remote2.app'>
+2024-03-30 08:06:45 +0000  Processing step: IDEDistributionCreateManifestStep
